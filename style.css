@@ -1,0 +1,45 @@
+
+.container{
+    margin-top: 3rem;
+    text-align: center;
+    background-color:#000;
+    color: #ffffff;
+    
+    
+    
+}
+
+.amount{
+    display: inline-flex;
+    margin-top: 1rem;
+}
+.div1{
+    margin-left: 2rem;
+}
+.data{
+    background-color: #f45;
+    color: #ffffff;
+    font-size: x-large;
+}
+.auto{
+    margin-left: 123px;
+    margin-top: 15px;
+}
+.color{
+    background-color: lightskyblue;
+}
+.budget-field{
+    height: 3rem;
+    color: #000;
+    text-decoration:solid;
+}
+
+.table{
+    background-color: #ffffff;
+    color: #000;
+}
+
+
+
+
+
